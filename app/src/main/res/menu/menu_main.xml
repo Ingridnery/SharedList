@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/addTaskMi"
+        android:icon="@drawable/ic_baseline_add_task_24"
+        android:title="Add task"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/signOutMi"
+        android:icon="@drawable/ic_baseline_exit_to_app"
+        android:title="Logout"
+        app:showAsAction="ifRoom" />
+</menu>

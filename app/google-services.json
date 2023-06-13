@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "952188759013",
+    "project_id": "todoingridpdm",
+    "storage_bucket": "todoingridpdm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952188759013:android:ee3d53f858718694621d0c",
+        "android_client_info": {
+          "package_name": "br.edu.scl.ifsp.inery.sharedlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952188759013-smcle3qbfjsvq3c13un923lc9uhr3m00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.scl.ifsp.inery.sharedlist",
+            "certificate_hash": "7133e77be380a1b2de333688836ceb77bba95153"
+          }
+        },
+        {
+          "client_id": "952188759013-0n089eupm5hc3ng9ha59r1n921cbo7rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa6QBdlEUMw8Q2VUOUWpVix-SvCXI3RW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952188759013-0n089eupm5hc3ng9ha59r1n921cbo7rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
